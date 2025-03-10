@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "574028162352",
+    "project_id": "pesaserve",
+    "storage_bucket": "pesaserve.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574028162352:android:9055c5d3901cb4d84114f5",
+        "android_client_info": {
+          "package_name": "com.example.pesaserve"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnbO9nuadNye9eb4UFjIkGM51Yi_hTB14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
