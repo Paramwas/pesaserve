@@ -40,5 +40,47 @@ class DefaultFirebaseOptions {
     }
   }
 
+  static const FirebaseOptions web = FirebaseOptions(
+    apiKey: 'AIzaSyANtoEMrbU03bVo7elEI_CPphKa-4Aw6lQ',
+    appId: '1:574028162352:web:742811df81a9e0c74114f5',
+    messagingSenderId: '574028162352',
+    projectId: 'pesaserve',
+    authDomain: 'pesaserve.firebaseapp.com',
+    storageBucket: 'pesaserve.firebasestorage.app',
+  );
 
+  static const FirebaseOptions android = FirebaseOptions(
+    apiKey: 'AIzaSyAnbO9nuadNye9eb4UFjIkGM51Yi_hTB14',
+    appId: '1:574028162352:android:9055c5d3901cb4d84114f5',
+    messagingSenderId: '574028162352',
+    projectId: 'pesaserve',
+    storageBucket: 'pesaserve.firebasestorage.app',
+  );
+
+  static const FirebaseOptions ios = FirebaseOptions(
+    apiKey: 'AIzaSyB9CtTqHHfB1d-AU_Zr7zgqxp3maTKf-UE',
+    appId: '1:574028162352:ios:5d40a71bf4cc37c74114f5',
+    messagingSenderId: '574028162352',
+    projectId: 'pesaserve',
+    storageBucket: 'pesaserve.firebasestorage.app',
+    iosBundleId: 'com.example.pesaserve',
+  );
+
+  static const FirebaseOptions macos = FirebaseOptions(
+    apiKey: 'AIzaSyB9CtTqHHfB1d-AU_Zr7zgqxp3maTKf-UE',
+    appId: '1:574028162352:ios:5d40a71bf4cc37c74114f5',
+    messagingSenderId: '574028162352',
+    projectId: 'pesaserve',
+    storageBucket: 'pesaserve.firebasestorage.app',
+    iosBundleId: 'com.example.pesaserve',
+  );
+
+  static const FirebaseOptions windows = FirebaseOptions(
+    apiKey: 'AIzaSyANtoEMrbU03bVo7elEI_CPphKa-4Aw6lQ',
+    appId: '1:574028162352:web:567f897fb865f12c4114f5',
+    messagingSenderId: '574028162352',
+    projectId: 'pesaserve',
+    authDomain: 'pesaserve.firebaseapp.com',
+    storageBucket: 'pesaserve.firebasestorage.app',
+  );
 }
