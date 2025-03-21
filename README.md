@@ -31,5 +31,5 @@ SmartBiz POS is designed to help businesses:
 
 ---
 ### Installation
--- **For installation and app usage fell free to contact me via linked in https://www.linkedin.com/in/peter-waweru-98374828a/
+- **For installation and app usage feel free to contact me via linkedin ** https://www.linkedin.com/in/peter-waweru-98374828a/
 
