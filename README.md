@@ -1,16 +1,24 @@
-# pesaserve
+# SmartBiz POS - AI-Powered Flutter Application 💼💡
 
-A new Flutter project.
+SmartBiz POS is a Flutter-based Point of Sale (POS) application that uses AI to simplify digital transactions, inventory tracking, and sales management. The app supports seamless M-Pesa integration, making it ideal for businesses seeking efficient and intelligent sales solutions.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Project Overview
+SmartBiz POS is designed to help businesses:
+- Track sales in real-time.
+- Manage inventory efficiently.
+- Predict sales for better restocking.
+- Offer seamless cash and M-Pesa payment options.
+- Provide AI-driven business credit scoring for easy financing.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
+- **Flutter:** Frontend framework for cross-platform app development.
+- **Dart:** Programming language for Flutter.
+- **Firebase Firestore:** Real-time database for sales and inventory tracking.
+- **M-Pesa API:** Integrated for seamless mobile payments.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
