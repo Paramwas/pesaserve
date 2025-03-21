@@ -1,4 +1,4 @@
-# SmartBiz POS - AI-Powered Flutter Application 💼💡
+# PesaServe POS - AI-Powered Flutter Application 💼💡
 
 SmartBiz POS is a Flutter-based Point of Sale (POS) application that uses AI to simplify digital transactions, inventory tracking, and sales management. The app supports seamless M-Pesa integration, making it ideal for businesses seeking efficient and intelligent sales solutions.
 
