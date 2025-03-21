@@ -22,3 +22,14 @@ SmartBiz POS is designed to help businesses:
 
 ---
 
+## 🚀 Features
+- **Real-time Sales Tracking:** Monitor sales and inventory effortlessly.
+- **Barcode Scanning:** Scan products and automatically retrieve details.
+- **Payment Integration:** Process payments via M-Pesa or cash.
+- **AI-Based Analytics:** Gain insights and sales predictions.
+- **User Authentication:** Secure login for authorized access.
+
+---
+### Installation
+-- **For installation and app usage fell free to contact me via linked in https://www.linkedin.com/in/peter-waweru-98374828a/
+
