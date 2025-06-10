@@ -1,6 +1,6 @@
 # PesaServe POS - AI-Powered Flutter Application 💼💡
 
-PesaServe POS is a Flutter-based Point of Sale (POS) application that uses AI to simplify digital transactions, inventory tracking, and sales management. The app supports seamless M-Pesa integration, making it ideal for businesses seeking efficient and intelligent sales solutions.
+PesaServe POS is a Flutter-based Point of Sale (POS) application that uses AI to simplify digital transactions(MPESA), inventory tracking, and sales management. The app supports seamless M-Pesa integration, making it ideal for businesses seeking efficient and intelligent sales solutions.
 
 ---
 
@@ -31,5 +31,6 @@ Pesaserve POS is designed to help businesses:
 
 ---
 ### Installation
-- **For installation and app usage feel free to contact me via linkedin ** https://www.linkedin.com/in/peter-waweru-98374828a/
+- **For installation and app usage click the link and download https://www.dropbox.com/scl/fi/wsesif7pjll6y9wyj1ou6/pesaserve.apk?rlkey=46dhj1h7ywgcg7icqtosjlmxs&st=lhj1mij7&dl=1
+- ** After installing go and click on register and login with the details to access the app
 
